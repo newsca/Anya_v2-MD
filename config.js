@@ -13,21 +13,21 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "MIHIYA V2",
+    ownernumber: process.env.Owner_Number || "94778764083",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
+    author: process.env.Author || "MIHIYA",
     packname: process.env.PackName || "Queen Anya v2 MD",
     socialLink: process.env.Web || "https://github.com/PikaBotz",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    sessionId: process.env.SESSION_ID || "TE1JVlFSeGEjVlpXcEVIREQ4eDd1ZVB2RU1RM_Queen-Anya_DA0dElXY2JvM_Queen-Anya_GlHbEJsY3JhZ0hNNXoySQ==",
 
     /**
      * thumbnails and medias
